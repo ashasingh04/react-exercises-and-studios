@@ -1,18 +1,82 @@
 [
-   {
-     "name": "Stovetop Mac and Cheese",
-     "author": "Stephanie Melchione",
-     "description": "This Creamy Stovetop Mac and Cheese is the BEST 30-minute meal for a busy week. Your family will love it every time!",
-     "website": "https://thecozycook.com/stovetop-mac-and-cheese/",
-     "recipeImage": "https://thecozycook.com/wp-content/uploads/2021/10/Stovetop-Mac-and-Cheese-2.jpg",
-     "authorImage": "https://thecozycook.com/wp-content/uploads/2021/11/The-Cozy-Cook.jpg",
-     "ingredients": [
-       "uncooked macaroni",
-       "butter",
-       "flour",
-       "heavy cream",
-       "milk"
-     ]
-   }
- ]
- 
+  {
+    "name": "Stovetop Mac and Cheese",
+    "author": "Stephanie Melchione",
+    "description": "This Creamy Stovetop Mac and Cheese is the BEST 30-minute meal for a busy week. Your family will love it every time!",
+    "website": "https://thecozycook.com/stovetop-mac-and-cheese/",
+    "recipeImage": "https://thecozycook.com/wp-content/uploads/2021/10/Stovetop-Mac-and-Cheese-2.jpg",
+    "authorImage": "https://thecozycook.com/wp-content/uploads/2021/11/The-Cozy-Cook.jpg",
+    "ingredients": [
+      "uncooked macaroni",
+      "butter",
+      "flour",
+      "heavy cream",
+      "milk"
+    ],
+    "rating":4
+  },
+  {
+   "name": "Creole Mushroom Rice",
+   "author": "Sanjeev Kapoor",
+   "description": "Rice cooked with mushrooms and some other ingredients in the Creole style. This is a Sanjeev Kapoor exclusive recipe.",
+   "website": "https://www.sanjeevkapoor.com/",
+   "recipeImage": "https://img-cdn.thepublive.com/fit-in/1280x960/filters:format(webp)/sanjeev-kapoor/media/post_banners/d302426390644b980d31ee3e55fb2dd4750e22549c4c9a021e2e6b9c246dda73.jpg",
+   "authorImage": "https://img-cdn.thepublive.com/fit-in/580x326/filters:format(webp)/sanjeev-kapoor/media/agency_attachments/hXHLLj4g5NAUwsM9IKj5.png",
+   "ingredients": [
+     "Button mushrooms",
+     "Rice",
+     "Butter",
+     "Saffron",
+     "Processed cheese, grated"
+   ],
+   "rating":5
+ },
+ {
+   "name": "Almond Milk Smoothie",
+   "author": "Sanjeev Kapoor",
+   "description": "Enriched with almonds and garnished with sabza and blueberries, this smoothie is a power house of essential nutrients This recipe is from FoodFood TV channel",
+   "website": "https://www.sanjeevkapoor.com/",
+   "recipeImage": "https://img-cdn.thepublive.com/fit-in/1280x960/filters:format(webp)/sanjeev-kapoor/media/post_banners/a114deaf13e9659beaeb48895f6c6c7785e84374731ff059c99088028c033a0e.JPG",
+   "authorImage": "https://img-cdn.thepublive.com/fit-in/580x326/filters:format(webp)/sanjeev-kapoor/media/agency_attachments/hXHLLj4g5NAUwsM9IKj5.png",
+   "ingredients": [
+     "Almonds",
+     "Ripe bananas",
+     "blueberries",
+     "Vanilla essence",
+     "Honey"
+   ],
+   "rating":4
+ },
+ {
+   "name": "Spaghetti with Crispy Zucchini",
+   "author": "LINDSAY",
+   "description": "This Spaghetti with Crispy Zucchini is the perfect end-of-summer song! It doesn’t get much better than fresh summer zucchini coated in a crispy, cheesy breading piled high on top of spaghetti with fresh herbs. YUM!",
+   "website": "https://pinchofyum.com/",
+   "recipeImage": "https://pinchofyum.com/wp-content/uploads/Crispy-Zucchini-Spaghetti-4-960x1440.jpg",
+   "authorImage": "https://pinchofyum.com/wp-content/assets/images/sidebar/sidebar-lindsay.jpg",
+   "ingredients": [
+     "spaghetti",
+     "spaghetti sauce",
+     "zucchini",
+     "egg",
+     "Italian seasoning"
+   ],
+   "rating":3
+ },
+ {
+   "name": "CHOCOLATE MUMMY COOKIES",
+   "author": "KELLY",
+   "description": "Get festive this Halloween with these delicious Chocolate Mummy Cookies!  Made healthier with zero butter, oil or refined sugar and are the perfect spooky treat your kids will love!",
+   "website": "https://www.eatyourselfskinny.com/",
+   "recipeImage": "https://www.eatyourselfskinny.com/wp-content/uploads/2022/10/mummy-cookies-5-1146x1536.jpg",
+   "authorImage": "https://www.eatyourselfskinny.com/wp-content/uploads/2016/02/Headshot.jpg",
+   "ingredients": [
+     "Almond flour",
+     "Unsweetened cocoa powder",
+     "Peanut butter",
+     "Eggs",
+     "Chocolate chips"
+   ],
+   "rating":4
+ }
+]

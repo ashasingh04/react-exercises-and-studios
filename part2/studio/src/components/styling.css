@@ -1,36 +1,57 @@
-
 #saveButton {
-   background-color: red;
-   color: white;
-   border-radius: 25px;
-   font-size: 20px;
-   padding: 10px;
-   margin: 10px;
- }
- 
- #saveButton:hover {
-   background-color: firebrick;
-   color: white;
- }
- 
- #clickedButton {
-   background-color: black;
-   color: white;
-   border-radius: 25px;
-   font-size: 20px;
-   padding: 10px;
-   margin: 10px;
- }
- 
- .authorImage {
-   border-radius: 50%;
-   width: 60px;
-   height: 70px;
-   margin: 10px;
- }
- 
- .recipeImage {
-   width: 20%;
-   display: block;
-   margin: 10px;
- }
+  background-color: red;
+  color: white;
+  border-radius: 25px;
+  font-size: 20px;
+  padding: 10px;
+  margin: 10px;
+}
+
+#saveButton:hover {
+  background-color: firebrick;
+  color: white;
+}
+
+#clickedButton {
+  background-color: black;
+  color: white;
+  border-radius: 25px;
+  font-size: 20px;
+  padding: 10px;
+  margin: 10px;
+}
+
+.authorImage {
+  border-radius: 50%;
+  width: 60px;
+  height: 70px;
+  margin: 10px;
+}
+
+.recipeImage {
+  width: 200px;
+  height: 200px;
+  display: block;
+  margin: 10px;
+}
+.container {
+  border: 1px solid rgb(194, 192, 192);
+  border-radius: 5px;
+  box-shadow: 0px 5px #888888;
+  width: 80%;
+  margin: 30px;
+  padding: 5px;
+}
+.innerContainer {
+  display: flex;
+  justify-content: space-evenly;
+  margin-top: 10px;
+  align-content: space-between;
+  width: 70%;
+}
+.bottomContainer {
+  display: flex;
+  margin-top: 10px;
+  align-content: space-between;
+  /* width: 70%; */
+}
